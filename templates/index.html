@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Market Segmentation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Customer Segmentation</h1>
+    <form id="segmentation-form" action="/segment" method="post" enctype="multipart/form-data">
+        <input type="file" id="file-input" name="file"/>
+        <button type="submit">Segment</button>
+    </form>
+    
+    <div id="results"></div>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
