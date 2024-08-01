@@ -24,18 +24,18 @@ Access the Web Interface:
 
 Open your web browser and navigate to http://127.0.0.1:5000. You will see a form to upload your CSV files for segmentation.
 
-##Docker Setup
+Docker Setup
 To run the application in a Docker container:
 
 Build the Docker Image:
 
 bash
-Copy code
+Copy code:
 docker build -t customer-segmentation .
 Run the Docker Container:
 
 bash
-Copy code
+Copy code: 
 docker run -p 5000:5000 customer-segmentation
 
 License
