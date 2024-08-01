@@ -46,7 +46,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 
 
-Replace `Irfan-Khan-I` and `ik914149986@gmail.com` with your actual GitHub username and email address. Adjust the content as necessary based on your specific project details and requirements.
+Contact: For any inquiries or feedback, please contact ik9141499886@gmail.com.
 
 
 
